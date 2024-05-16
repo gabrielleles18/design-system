@@ -4,7 +4,12 @@
     "main": "index.js",
     "author": "Gabriel Leles",
     "license": "MIT",
+    "scripts": {
+        "build": "tsup src/index.ts --format esm,cjs --dts",
+        "dev": "tsup src/index.ts --format esm,cjs --dts --watch"
+    },
     "devDependencies": {
+        "tsup": "^6.2.3",
         "typescript": "^5.4.5"
     }
 }
