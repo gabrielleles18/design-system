@@ -1,15 +1,22 @@
 {
-    "name": "@lirs-ui/tokens",
-    "version": "1.0.0",
-    "main": "index.js",
-    "author": "Gabriel Leles",
-    "license": "MIT",
-    "scripts": {
-        "build": "tsup src/index.ts --format esm,cjs --dts",
-        "dev": "tsup src/index.ts --format esm,cjs --dts --watch"
-    },
-    "devDependencies": {
-        "tsup": "^6.2.3",
-        "typescript": "^5.4.5"
-    }
+  "name": "@ignite-ui/tokens",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "scripts": {
+    "build": "tsup src/index.ts --format esm,cjs --dts",
+    "dev": "tsup src/index.ts --format esm,cjs --dts --watch",
+    "lint": "eslint src/**/*.ts* --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "@ignite-ui/ts-config": "*",
+    "@ignite-ui/eslint-config": "*",
+    "tsup": "^6.2.3",
+    "typescript": "^4.8.4"
+  }
 }
