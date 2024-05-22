@@ -1,4 +1,4 @@
-# @ignite-ui/react
+# @lars-ui/react
 
 ## 1.0.1
 

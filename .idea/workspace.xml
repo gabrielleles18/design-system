@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19776305-5440-4a60-ba40-7b7c6e97cb97" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.changeset/config.json" beforeDir="false" afterPath="$PROJECT_DIR$/.changeset/config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/.storybook/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/.storybook/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/.storybook/manager.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/.storybook/manager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/.storybook/preview-head.html" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/.storybook/preview-head.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/.storybook/preview.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/.storybook/preview.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/components/ColorsGrid.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/components/ColorsGrid.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/components/TokensGrid.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/components/TokensGrid.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/pages/tokens/font-sizes.stories.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/pages/tokens/font-sizes.stories.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/pages/tokens/font-weights.stories.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/pages/tokens/font-weights.stories.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/pages/tokens/fonts.stories.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/pages/tokens/fonts.stories.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/pages/tokens/line-height.stories.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/pages/tokens/line-height.stories.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/pages/tokens/radii.stories.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/pages/tokens/radii.stories.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/pages/tokens/space.stories.mdx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/pages/tokens/space.stories.mdx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/stories/Avatar.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/stories/Avatar.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/stories/Box.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/stories/Box.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/stories/Button.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/stories/Button.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/stories/Checkbox.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/stories/Checkbox.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/stories/Heading.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/stories/Heading.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/stories/MultiStep.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/stories/MultiStep.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/stories/Text.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/stories/Text.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/stories/TextArea.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/stories/TextArea.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/stories/TextInput.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/stories/TextInput.stories.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/styles/tokens-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/styles/tokens-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/vite.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/vite.config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/eslint-config/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/packages/eslint-config/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/eslint-config/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/eslint-config/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/eslint-config/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/CHANGELOG.md" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/CHANGELOG.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/components/Avatar/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/components/Avatar/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/components/Avatar/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/components/Avatar/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/components/Box.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/components/Box.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/components/Button.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/components/Button.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/components/Checkbox/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/components/Checkbox/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/components/Checkbox/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/components/Checkbox/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/components/Heading.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/components/Heading.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/components/MultiStep/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/components/MultiStep/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/components/MultiStep/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/components/MultiStep/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/components/Text.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/components/Text.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/components/TextArea.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/components/TextArea.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/components/TextInput/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/components/TextInput/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/components/TextInput/styles.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/components/TextInput/styles.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/styles/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/styles/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/tokens/.eslintrc.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tokens/.eslintrc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/tokens/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tokens/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/tokens/src/colors.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tokens/src/colors.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/tokens/src/font-sizes.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tokens/src/font-sizes.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/tokens/src/font-weights.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tokens/src/font-weights.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/tokens/src/fonts.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tokens/src/fonts.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/tokens/src/line-heights.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tokens/src/line-heights.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/tokens/src/radii.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tokens/src/radii.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/tokens/src/space.ts" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tokens/src/space.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/tokens/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/tokens/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/ts-config/base.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ts-config/base.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/ts-config/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ts-config/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/ts-config/react.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/ts-config/react.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turbo.json" beforeDir="false" afterPath="$PROJECT_DIR$/turbo.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;gabrielleles18&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/gabrielleles18/design-system.git&quot;,
+    &quot;accountId&quot;: &quot;141224fe-00e1-4550-9f59-b9dd37f01fb5&quot;
+  }
+}</component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2gYTmAdw7nG2kr5lP5TJKI2dmCc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;/home/gabriel/Documentos/apps/design-system/node_modules/typescript/lib&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/tokens/src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-91d5c284f522-JavaScript-PS-241.15989.102" />
+        <option value="bundled-php-predefined-ba97393d7c68-c76157a7178b-com.jetbrains.php.sharedIndexes-PS-241.15989.102" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19776305-5440-4a60-ba40-7b7c6e97cb97" name="Changes" comment="" />
+      <created>1715873667903</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715873667903</updated>
+      <workItem from="1715873670706" duration="1269000" />
+      <workItem from="1716302193037" duration="2036000" />
+      <workItem from="1716388587776" duration="994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
