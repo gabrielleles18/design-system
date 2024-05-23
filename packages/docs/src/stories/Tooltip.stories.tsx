@@ -1,13 +1,39 @@
 import type {Meta, StoryObj} from '@storybook/react'
-import {TooltipsProps, Tooltips} from '@lars-ui/react'
+import {Avatar, Button, Tooltips} from '@lars-ui/react'
+import {TooltipProps} from '@mui/material/Tooltip'
 
 export default {
     title: 'Data display/Tooltip',
     component: Tooltips,
-} as Meta<TooltipsProps>
+    argTypes: {
+        arrow: {
+            options: [true, false],
+            control: {
+                type: 'inline-radio',
+            },
+        },
+        placement: {
+            options: ['top', 'right', 'bottom', 'bottom-end', 'left'],
+            control: {
+                type: 'inline-radio',
+            },
+        }
+    },
+} as Meta<TooltipProps>
 
-export const Primary: StoryObj<TooltipsProps> = {
+export const Arrow: StoryObj<TooltipProps> = {
     args: {
-        content: 'Add to library',
+        children: <Button>Enviar</Button>,
+        title: 'Oi...',
+        arrow: true
     },
 }
+
+export const NoArrow: StoryObj<TooltipProps> = {
+    args: {
+        children: <Button>Enviar</Button>,
+        title: 'Testando o elemento Tooltip',
+        arrow: false
+    },
+}
+

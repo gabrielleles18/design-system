@@ -5,17 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19776305-5440-4a60-ba40-7b7c6e97cb97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/packages/docs/src/stories/Tooltip.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/react/src/components/Tooltip/index.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/react/src/components/Tooltip/styles.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/docs/.storybook/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/docs/.storybook/manager.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/docs/.storybook/preview-head.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/docs/.storybook/preview.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/docs/.storybook/main.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/docs/.storybook/manager.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/docs/.storybook/preview-head.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/docs/.storybook/preview.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/stories/Tooltip.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/stories/Tooltip.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/react/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/components/Tooltip/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/components/Tooltip/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/components/Tooltip/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +84,8 @@
       <workItem from="1715873670706" duration="1269000" />
       <workItem from="1716302193037" duration="2036000" />
       <workItem from="1716388587776" duration="4388000" />
+      <workItem from="1716412635011" duration="42000" />
+      <workItem from="1716474841276" duration="3343000" />
     </task>
     <servers />
   </component>

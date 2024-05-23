@@ -1,13 +1,12 @@
-import {Tooltip, TooltipProvider} from '@radix-ui/react-tooltip';
+import Tooltip, {TooltipProps} from "@mui/material/Tooltip";
+import {Text} from "../Text";
 
-interface TooltipsProps {
-    content: string
-}
 
-export function Tooltips({content}: TooltipsProps) {
+export function Tooltips({children, ...rest}: TooltipProps) {
     return (
-        <TooltipProvider>
-            <Tooltip/>
-        </TooltipProvider>
+        <Tooltip {...rest}>
+            {children}
+        </Tooltip>
     )
 }
+
