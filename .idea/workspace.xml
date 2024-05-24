@@ -4,15 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19776305-5440-4a60-ba40-7b7c6e97cb97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/packages/docs/src/stories/Toast.stories.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/react/src/components/Toasts.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/react/src/components/Tooltip/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/components/Tooltip/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/react/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
-    </list>
+    <list default="true" id="19776305-5440-4a60-ba40-7b7c6e97cb97" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,7 +79,7 @@
       <workItem from="1716388587776" duration="4388000" />
       <workItem from="1716412635011" duration="42000" />
       <workItem from="1716474841276" duration="4056000" />
-      <workItem from="1716561430328" duration="2237000" />
+      <workItem from="1716561430328" duration="2623000" />
     </task>
     <servers />
   </component>
