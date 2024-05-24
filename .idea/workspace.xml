@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19776305-5440-4a60-ba40-7b7c6e97cb97" name="Changes" comment="" />
+    <list default="true" id="19776305-5440-4a60-ba40-7b7c6e97cb97" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +31,9 @@
     &quot;accountId&quot;: &quot;141224fe-00e1-4550-9f59-b9dd37f01fb5&quot;
   }
 }</component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/bin/php" />
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -39,7 +45,9 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "/home/gabriel/Documentos/apps/design-system/packages/docs/src/stories",
     "node.js.detected.package.eslint": "true",
@@ -80,6 +88,7 @@
       <workItem from="1716412635011" duration="42000" />
       <workItem from="1716474841276" duration="4056000" />
       <workItem from="1716561430328" duration="2623000" />
+      <workItem from="1716589946438" duration="1136000" />
     </task>
     <servers />
   </component>
