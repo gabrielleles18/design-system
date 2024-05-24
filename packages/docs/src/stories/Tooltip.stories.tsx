@@ -1,5 +1,5 @@
 import type {Meta, StoryObj} from '@storybook/react'
-import {Avatar, Button, Tooltips} from '@lars-ui/react'
+import {Button, Tooltips} from '@lars-ui/react'
 import {TooltipProps} from '@mui/material/Tooltip'
 
 export default {

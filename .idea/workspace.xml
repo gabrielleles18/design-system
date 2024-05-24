@@ -5,8 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19776305-5440-4a60-ba40-7b7c6e97cb97" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy-docs.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy-docs.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/docs/src/stories/Tooltip.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/stories/Tooltip.stories.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +57,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "ts.external.directory.path": "/home/gabriel/Documentos/apps/design-system/node_modules/typescript/lib"
+    "ts.external.directory.path": "/home/leles/apps/design-system/node_modules/typescript/lib"
   }
 }]]></component>
   <component name="RecentsManager">
