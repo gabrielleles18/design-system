@@ -31,6 +31,9 @@
         "@radix-ui/react-checkbox": "^1.0.0",
         "@radix-ui/react-tooltip": "^1.0.7",
         "@stitches/react": "^1.2.8",
-        "phosphor-react": "^1.4.1"
+        "@types/react-toastify": "^4.1.0",
+        "phosphor-react": "^1.4.1",
+        "primereact": "^10.6.6",
+        "react-toastify": "^10.0.5"
     }
 }

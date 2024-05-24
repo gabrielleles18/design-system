@@ -5,15 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="19776305-5440-4a60-ba40-7b7c6e97cb97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/packages/docs/.storybook/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/docs/.storybook/manager.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/docs/.storybook/preview-head.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages/docs/.storybook/preview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/docs/src/stories/Toast.stories.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/react/src/components/Toasts.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/docs/src/stories/Tooltip.stories.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/docs/src/stories/Tooltip.stories.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/react/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/packages/react/src/components/Tooltip/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/components/Tooltip/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/packages/react/src/components/Tooltip/styles.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/packages/react/src/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/packages/react/src/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,19 +45,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;/home/gabriel/Documentos/apps/design-system/node_modules/typescript/lib&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/home/gabriel/Documentos/apps/design-system/packages/docs/src/stories",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ts.external.directory.path": "/home/gabriel/Documentos/apps/design-system/node_modules/typescript/lib"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/docs/src/stories" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/packages/tokens/src" />
     </key>
@@ -85,7 +86,8 @@
       <workItem from="1716302193037" duration="2036000" />
       <workItem from="1716388587776" duration="4388000" />
       <workItem from="1716412635011" duration="42000" />
-      <workItem from="1716474841276" duration="3343000" />
+      <workItem from="1716474841276" duration="4056000" />
+      <workItem from="1716561430328" duration="2237000" />
     </task>
     <servers />
   </component>
